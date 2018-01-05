@@ -1,0 +1,1 @@
+mvn -P all_data package & mvn -P lifestate package & mvn -P propertychange package
